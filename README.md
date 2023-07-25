@@ -8,6 +8,7 @@ In my spare time I'm building an EHR system demo, with Angular (frontend) and Ne
 
 Some of the features you can already see include:
 - Animations
+- Presentational/Container components pattern
 - Lazy-loading
 - Run-time language selection
 - Route guarding

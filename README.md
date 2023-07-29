@@ -5,7 +5,7 @@ This is my coding playground. Mostly small demos I use to practice and experimen
 In my spare time I'm building an EHR system demo, with Angular (frontend) and NestJS (backend). Some of the features/techniques already included:
 
 - Animations
-- Presentational/container components
+- Presentational / container components
 - Lazy-loading
 - Run-time language selection
 - Route guarding

@@ -11,7 +11,8 @@ In my spare time I'm building an EHR system demo, with Angular (frontend) and Ne
 - Route guarding
 - Form validation
 - State management using NgRx
-- Using interceptors to manage HTTP requests from frontend to backend
+- Interceptors to manage HTTP requests from frontend to backend
+- Cookies to persist data between sessions / reloads
 
 And everything is covered using automated unit and end-to-end tests:
 

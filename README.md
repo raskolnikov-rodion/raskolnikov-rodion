@@ -2,7 +2,11 @@
 
 This is my coding playground. Mostly small demos I use to practice and experiment with new tech.
 
-In my spare time I'm building an EHR system demo, with Angular (frontend) and NestJS (backend). Some of the features/techniques already included:
+In my spare time, I am:
+- contributing to [OpenEMR](https://github.com/openemr/openemr#openemr)
+- building an EHR system demo, with Angular (frontend) and NestJS (backend).
+
+Some of the features/techniques already included in the demo:
 
 - Deploying and creating Pull Request previews using Netlify
 - Animations

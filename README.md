@@ -3,7 +3,7 @@
 This is my coding playground. Mostly small demos I use to practice and experiment with new tech.
 
 In my spare time, I am:
-- contributing to [OpenEMR](https://github.com/openemr/openemr#openemr)
+- contributing to [OpenEMR](https://github.com/openemr/openemr#openemr), an electronic health records and medical practice management application
 - building an EHR system demo, with Angular (frontend) and NestJS (backend).
 
 Some of the features/techniques already included in the demo:

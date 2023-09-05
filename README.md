@@ -4,6 +4,8 @@ This is my coding playground. Mostly small demos I use to practice and experimen
 
 In my spare time, I am [contributing to OpenEMR](https://github.com/openemr/openemr/pulls?q=is%3Apr+author%3Araskolnikov-rodion+), an electronic health records and medical practice management application.
 
+My background is in electronics and bioengineering. You can see some of my past work on biomedical instrumentation and machine learning [here](https://1drv.ms/f/s!AhFcsd63GAVbfUzayNhppUFQwvA).
+
 Thanks for visiting!
 
 <!--

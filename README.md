@@ -8,7 +8,7 @@ In my spare time, I am contributing to:
 
 My background is in electronics and bioengineering. You can see some of my work on biomedical instrumentation and machine learning [here](https://1drv.ms/f/s!AhFcsd63GAVbfUzayNhppUFQwvA).
 
-[I don't have social media](https://www.youtube.com/watch?v=m6AF_aFuD8w), but you have other ways of contacting me.
+[I don't have social media](https://www.youtube.com/watch?v=m6AF_aFuD8w), but you have other ways of [contacting me](https://raskolnikov-rodion.github.io/#contact).
 
 Thanks for visiting!
 

@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-This is my coding playground. Mostly small demos I use to practice and experiment with new tech.
+This is my coding playground. Proofs of concept, exercises/projects from courses and books, and experimentation with tech outside work.
 
 If you'd like to see the contributions graph on my current work account, please visit [here](https://github.com/dlg-gustavo-oliveira).
 

@@ -12,7 +12,7 @@ My academic background is in electronics and bioengineering. You can see some of
 
 Other links:
 - [contributions graph](https://github.com/dlg-gustavo-oliveira) on my current work account
-- [demo project](https://github.com/raskolnikov-rodion/ehr?tab=readme-ov-file#readme)
+- a [demo project](https://github.com/raskolnikov-rodion/ehr?tab=readme-ov-file#readme) I'm using to practice AI-augmented coding
 
 Thanks for visiting!
 

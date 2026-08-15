@@ -5,6 +5,7 @@ This is my coding playground. Proofs of concept, exercises/projects from courses
 In my spare time, I am contributing to:
 - [OpenEMR](https://github.com/openemr/openemr/pulls?q=is%3Apr+author%3Araskolnikov-rodion+), an electronic health records and medical practice management application.
 - [Open Targets Web Apps](https://github.com/opentargets/ot-ui-apps/pulls?q=is%3Apr+author%3Araskolnikov-rodion+), tools that provide access to genetics and genomics data for systematic drug target identification and prioritisation.
+- [MedPlum](https://github.com/medplum/medplum/pulls?q=is%3Apr+author%3Araskolnikov-rodion+), a developer platform for healthcare apps.
 
 My academic background is in electronics and bioengineering. You can see some of my work on biomedical instrumentation and machine learning [here](https://1drv.ms/f/s!AhFcsd63GAVbfUzayNhppUFQwvA).
 

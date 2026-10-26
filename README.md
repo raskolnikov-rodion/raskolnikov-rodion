@@ -7,12 +7,13 @@ In my spare time, I am contributing to:
 - [Open Targets Platform Web App](https://github.com/opentargets/ot-ui-apps/pulls?q=is%3Apr+author%3Araskolnikov-rodion+), data integration tool for systematic drug target identification and prioritisation.
 - [MedPlum](https://github.com/medplum/medplum/pulls?q=is%3Apr+author%3Araskolnikov-rodion+), a developer platform for healthcare apps.
 
+Other links:
+- [contributions graph](https://github.com/dlg-gustavo-oliveira) on my current work account
+
 My academic background is in electronics and bioengineering. You can see some of my work on biomedical instrumentation and machine learning [here](https://1drv.ms/f/s!AhFcsd63GAVbfUzayNhppUFQwvA).
 
 [I'm not very active on social media](https://www.youtube.com/watch?v=m6AF_aFuD8w), but if you have arrived here, you know other ways of contacting me.
 
-Other links:
-- [contributions graph](https://github.com/dlg-gustavo-oliveira) on my current work account
 <!-- - [demo project](https://github.com/raskolnikov-rodion/ehr?tab=readme-ov-file#readme) (👷‍♂️ under construction ) -->
 
 Thanks for visiting!

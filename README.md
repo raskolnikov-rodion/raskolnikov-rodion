@@ -3,9 +3,9 @@
 This is my coding playground. Proofs of concept, exercises/projects from courses and books, and experimentation with tech outside work.
 
 In my spare time, I am contributing to:
-- [OpenEMR](https://github.com/openemr/openemr/pulls?q=is%3Apr+author%3Araskolnikov-rodion+), an electronic health records and medical practice management application.
-- [Open Targets Platform Web App](https://github.com/opentargets/ot-ui-apps/pulls?q=is%3Apr+author%3Araskolnikov-rodion+), data integration tool for systematic drug target identification and prioritisation.
-- [MedPlum](https://github.com/medplum/medplum/pulls?q=is%3Apr+author%3Araskolnikov-rodion+), a developer platform for healthcare apps.
+- [OpenEMR](https://github.com/openemr/openemr/pulls?q=is%3Apr+author%3Araskolnikov-rodion+state%3Amerged), an electronic health records and medical practice management application.
+- [Open Targets Platform Web App](https://github.com/opentargets/platform-webapp/pulls?q=is%3Apr+author%3Araskolnikov-rodion+state%3Amerged), data integration tool for systematic drug target identification and prioritization.
+- [MedPlum](https://github.com/medplum/medplum/pulls?q=is%3Apr+author%3Araskolnikov-rodion+state%3Amerged), a developer platform for healthcare apps.
 
 Other links:
 - [contributions graph](https://github.com/dlg-gustavo-oliveira) on my current work account
